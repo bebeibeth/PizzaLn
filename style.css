@@ -1,0 +1,13 @@
+.body { 
+    font-family: montserrat;
+}
+
+.jumbotron{
+    background-size: cover;
+    height: 770px;
+    text-align: center;
+   }
+
+.carousel{
+    margin-top: 5px;
+}
